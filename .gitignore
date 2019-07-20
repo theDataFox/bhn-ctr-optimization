@@ -92,5 +92,5 @@ target/
 venv/
 
 #data files
-.csv
-.json
+*.csv
+*.json
