@@ -1,3 +1,5 @@
+googleads
+oauthlib
 # local package
 -e .
 

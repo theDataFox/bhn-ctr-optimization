@@ -94,3 +94,4 @@ venv/
 #data files
 *.csv
 *.json
+*.yaml
