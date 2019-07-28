@@ -91,7 +91,10 @@ target/
 # virtula env
 venv/
 
-#data files
+# data files
 *.csv
 *.json
 *.yaml
+
+# draft
+scratch.py
