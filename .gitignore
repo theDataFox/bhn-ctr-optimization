@@ -98,3 +98,4 @@ venv/
 
 # draft
 scratch.py
+/notebooks/other/
