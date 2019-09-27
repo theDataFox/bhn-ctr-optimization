@@ -99,3 +99,4 @@ venv/
 # draft
 scratch.py
 /notebooks/other/
+/notebooks/tree.dot
