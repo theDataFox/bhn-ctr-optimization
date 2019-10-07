@@ -74,10 +74,10 @@ target/
 
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
-
+git
 # exclude data from source control by default
 /data/
-
+`git
 # Mac OS-specific storage files
 .DS_Store
 
@@ -100,3 +100,4 @@ venv/
 scratch.py
 /notebooks/other/
 /notebooks/tree.dot
+/notebooks/rf.pkl
